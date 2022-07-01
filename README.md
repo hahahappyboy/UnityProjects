@@ -8,6 +8,9 @@ Unity个人项目总结
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 拾取金币
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/8059a03242884d93b33f41a88bf53d37.gif)
 
 ## 行星绕恒星转动
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/afd11473dbe640bfaaacbf0005c6e483.gif)
