@@ -8,6 +8,10 @@ Unity个人项目总结
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 打砖块
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/c618371280a549738de92478225cfa35.gif)
+
 ## 拾取金币
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/8059a03242884d93b33f41a88bf53d37.gif)
