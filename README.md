@@ -8,6 +8,9 @@ Unity个人项目总结
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 关卡选择UI界面
+![请添加图片描述](https://img-blog.csdnimg.cn/49ae5f0e6dc0495fb6d3586f21978ab6.gif)
+
 ## UI界面
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/954a35bb93f4475396a21f70eeddbeb3.png)
 
