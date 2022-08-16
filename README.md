@@ -4,9 +4,13 @@ Unity个人项目总结
 
 # 写在前面
 
-个人兴趣+项目需要，学习一下Unity引擎，在此记录一下自己所作的小项目。
+个人兴趣+项目需要，学习一下Unity引擎，在此记录一下自己所作的小项目。主要参考了千峰教育的Unity视频。
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
+
+## 动画系统
+
+![请添加图片描述](https://img-blog.csdnimg.cn/e7d9d410cefd49e39725c94c8cf31c7f.gif)
 
 ## 人物背包系统UI界面
 
