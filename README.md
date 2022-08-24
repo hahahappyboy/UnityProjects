@@ -10,7 +10,7 @@ Unity个人项目总结
 
 ## 动画系统
 
-![请添加图片描述](https://img-blog.csdnimg.cn/e7d9d410cefd49e39725c94c8cf31c7f.gif)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/069ed208c32342388987e6067b90acc5.gif)
 
 ## 人物背包系统UI界面
 
