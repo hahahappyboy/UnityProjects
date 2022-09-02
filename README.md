@@ -7,6 +7,9 @@ Unity个人项目总结
 个人兴趣+项目需要，学习一下Unity引擎，在此记录一下自己所作的小项目。主要参考了千峰教育的Unity视频。
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
+## A*寻路算法
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/51ca12bac0e5441fb7dd0fccaa54741c.gif)
 
 ## 动画系统
 
