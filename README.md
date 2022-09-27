@@ -8,6 +8,10 @@ Unity个人项目总结
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 商城系统(SQLite访问)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/dbf37f9fbf3142f6aa532b526bb443e7.gif)
+
 ## 3D塔防
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/a18eeb9ac1524685b1a48257879fd91d.gif)
@@ -20,7 +24,7 @@ Unity个人项目总结
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7fa49b367fa84f51886fcc6b7b7d238b.gif)
 
-## 人物背包系统UI界面
+## 背包系统(物品拖拽)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/af7731d66be6464a89b7621e1334b584.gif)
 
