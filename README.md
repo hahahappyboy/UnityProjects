@@ -10,7 +10,7 @@ Unity个人项目总结
 
 ## 图像渐变效果(Shader)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/deebe0f781e745dcb7081476973712f3.gif)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/b7e273d3fe604f8a9aecb26332001045.gif)
 
 ## 商城系统(SQLite访问)
 
