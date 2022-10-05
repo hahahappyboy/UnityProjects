@@ -8,6 +8,10 @@ Unity个人项目总结
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 图像渐变效果(Shader)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/deebe0f781e745dcb7081476973712f3.gif)
+
 ## 商城系统(SQLite访问)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/dbf37f9fbf3142f6aa532b526bb443e7.gif)
