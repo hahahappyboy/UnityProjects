@@ -8,6 +8,10 @@ Unity个人项目总结
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 人物发光特效(Shader)
+
+![请添加图片描述](https://img-blog.csdnimg.cn/78ca3ac1ba0147d1bfce91ad80caff21.gif)
+
 ## 图像渐变效果(Shader)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b7e273d3fe604f8a9aecb26332001045.gif)
