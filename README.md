@@ -8,11 +8,15 @@ Unity个人项目总结
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
-## 人物发光特效(Shader)
+## Phong光照模型(顶点片元Shader、表面体Shader)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/faeb01397e57489da35f063d3c49f572.gif)
+
+## 人物发光特效(表面体Shader)
 
 ![请添加图片描述](https://img-blog.csdnimg.cn/78ca3ac1ba0147d1bfce91ad80caff21.gif)
 
-## 图像渐变效果(Shader)
+## 图像渐变效果(固定管线Shader)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b7e273d3fe604f8a9aecb26332001045.gif)
 
@@ -20,7 +24,7 @@ Unity个人项目总结
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/dbf37f9fbf3142f6aa532b526bb443e7.gif)
 
-## 3D塔防
+## 3D塔防(AI寻路)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/a18eeb9ac1524685b1a48257879fd91d.gif)
 
@@ -28,7 +32,7 @@ Unity个人项目总结
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/51ca12bac0e5441fb7dd0fccaa54741c.gif)
 
-## 动画系统
+## 动画系统(动画状态机)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7fa49b367fa84f51886fcc6b7b7d238b.gif)
 
@@ -36,24 +40,25 @@ Unity个人项目总结
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/af7731d66be6464a89b7621e1334b584.gif)
 
-## 关卡选择UI界面
+## 关卡选择UI界面(UGUI)
 
 ![请添加图片描述](https://img-blog.csdnimg.cn/49ae5f0e6dc0495fb6d3586f21978ab6.gif)
 
 
-## 3D坦克大战
+## 3D坦克大战(物理系统)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/06c165454e944d48b72cb29307c8e73b.gif)
 
-## 打砖块
+## 打砖块(射线检测)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c618371280a549738de92478225cfa35.gif)
 
-## 拾取金币
+## 拾取金币(碰撞检测)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/8059a03242884d93b33f41a88bf53d37.gif)
 
 ## 行星绕恒星转动
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/afd11473dbe640bfaaacbf0005c6e483.gif)
 
 ## 个人场景搭建
