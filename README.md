@@ -10,7 +10,7 @@ Unity个人项目总结
 
 ## 视频播放(Lua调UnityAPI)
 
-![请添加图片描述](https://img-blog.csdnimg.cn/e0355d8cc326403285c0a84c1c62046f.gif
+![请添加图片描述](https://img-blog.csdnimg.cn/e0355d8cc326403285c0a84c1c62046f.gif)
 
 ## AB包的使用 (AB包异步加载)
 
