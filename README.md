@@ -8,6 +8,10 @@ Unity个人项目总结
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 视频播放(Lua调UnityAPI)
+
+![请添加图片描述](https://img-blog.csdnimg.cn/e0355d8cc326403285c0a84c1c62046f.gif
+
 ## AB包的使用 (AB包异步加载)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c00074921023460fae794028f8eba4b8.gif)
