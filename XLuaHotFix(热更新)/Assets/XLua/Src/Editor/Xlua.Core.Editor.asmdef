@@ -1,0 +1,10 @@
+{
+    "name": "Xlua.Core.Editor",
+    "references": [
+        "Xlua.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

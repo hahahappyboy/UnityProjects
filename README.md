@@ -4,6 +4,10 @@
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 绘画涂鸦(图像处理、射线检测)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/348bc32268704f4c8a5d9ef8a2ab004a.gif)
+
 ## Unity常用框架(对象池框架、状态机框架、UI框架)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/9d099128d09d4f228060f331ba0c3d76.gif)

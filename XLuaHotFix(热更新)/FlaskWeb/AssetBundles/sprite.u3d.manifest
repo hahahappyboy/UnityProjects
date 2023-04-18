@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 672659438
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b089819761879d3a9f47a150ba132bae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Sprite/logo.png
+Dependencies: []

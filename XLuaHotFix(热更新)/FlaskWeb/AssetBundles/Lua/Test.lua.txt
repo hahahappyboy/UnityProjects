@@ -1,0 +1,41 @@
+local UnityEngine = CS.UnityEngine
+-- 要热更新Update方法
+-- xlua.hotfix(CS.类名，‘方法名’，lua方法)；这个是lua代码结构，需要使用lua虚拟机对象中的Dostring方法执行，说白了就是某个类中的某个方法用lua方法进行修复
+local force = 5
+
+xlua.hotfix(CS.SphereController,'Update',function(self)
+    if(UnityEngine.Input.GetKey(UnityEngine.KeyCode.W)) then
+        self._rigidbody:AddForce(UnityEngine.Vector3.forward*force)
+    end
+    if(UnityEngine.Input.GetKey(UnityEngine.KeyCode.A)) then
+        self._rigidbody:AddForce(UnityEngine.Vector3.left*force)
+    end
+    if(UnityEngine.Input.GetKey(UnityEngine.KeyCode.D)) then
+        self._rigidbody:AddForce(UnityEngine.Vector3.right*force)
+    end
+    if(UnityEngine.Input.GetKey(UnityEngine.KeyCode.S)) then
+        self._rigidbody:AddForce(-UnityEngine.Vector3.forward*force)
+    end
+    if(UnityEngine.Input.GetKeyDown(UnityEngine.KeyCode.Space)) then
+        self._rigidbody:AddForce(UnityEngine.Vector3.up*force*40)
+    end
+end)
+
+xlua.hotfix(CS.AssetLoad,'StartGameClick',function(self)
+    --加载资源
+    self:LoadAsset("prefabs.u3d","Cubes")
+    UnityEngine.Object.Instantiate(self:GetGameObjectFromDic("Cubes"))
+end)
+
+-- xlua.hotfix(CS.AssetLoad,'DownLoadClick',function(self)
+--     --下载AB包
+--     self:DownLoadAssetBundle()
+--     --下载lua
+--     self:DownLoadLua("test.lua.txt")
+--     self:DownLoadLua("LuaDispose.lua.txt")
+-- end)
+
+
+
+
+

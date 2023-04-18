@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3831921629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3b2239774874bac029397187110a922
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/AB/Sprites/\u4F60\u7684\u540D\u5B57.jpeg"
+- "Assets/AB/Sprites/\u56FD\u5BB6\u961F.jpeg"
+- "Assets/AB/Sprites/\u4F2F\u8D24.png"
+- "Assets/AB/Sprites/\u56DB\u6708.png"
+- "Assets/AB/Sprites/\u9732\u897F\u4E9A.jpg"
+- "Assets/AB/Sprites/\u7D2B\u7F57\u5170\u6C38\u6052\u82B1\u56ED .jpeg"
+- Assets/AB/Sprites/Charlotte .jpeg
+- Assets/AB/Sprites/Eye.jpg
+- "Assets/AB/Sprites/\u4E94\u7B49\u5206\u7684\u65B0\u5A18.jpeg"
+Dependencies: []
