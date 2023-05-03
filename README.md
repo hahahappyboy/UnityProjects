@@ -4,6 +4,10 @@
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 热更新(XLuaHotFix)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2170c50f972d4ca9aec248d643e81ced.gif)
+
 ## 绘画涂鸦(图像处理、射线检测)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/348bc32268704f4c8a5d9ef8a2ab004a.gif)
