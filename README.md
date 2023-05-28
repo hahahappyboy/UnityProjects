@@ -4,6 +4,10 @@
 
 讲解地址：[https://blog.csdn.net/iiiiiiimp/article/details/125505828](https://blog.csdn.net/iiiiiiimp/article/details/125505828)
 
+## 烟花(粒子系统)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/81d5ad23018b49228dc7a9a1d3f9bc52.gif)
+
 ## 热更新(XLuaHotFix)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2170c50f972d4ca9aec248d643e81ced.gif)
